@@ -1,1 +1,1 @@
-# BrunelleOhashi-Kenneth-A1
+A simple adventure game that relies on your decisions. Choose the right option and you'll reach the end, otherwise you'll meet a terrible fate.
